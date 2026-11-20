@@ -1,5 +1,11 @@
 # Hy-CycleAlign
-Hyperbolic Cycle Alignment for Infrared-Visible Image Fusion([paper](https://ieeexplore.ieee.org/document/11594044)).
+Codes for [**Hyperbolic Cycle Alignment for Infrared-Visible Image Fusion (TIP 2026)**](https://ieeexplore.ieee.org/document/11594044).
+
+## Installation
+```
+conda create -n hycyclealign python=3.9.0
+conda activate hycyclealign
+```
 
 ## Train
 ```
